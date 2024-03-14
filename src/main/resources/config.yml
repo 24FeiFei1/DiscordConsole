@@ -1,0 +1,4 @@
+# Discord bot config
+discord:
+  botToken: "YOUR_BOT_TOKEN"
+  channelId: "CONSOLE_CHANNEL_ID"

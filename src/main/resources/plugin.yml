@@ -1,0 +1,7 @@
+name: DiscordConsole
+version: '${project.version}'
+main: net.apvp.discordconsole.DiscordConsole
+api-version: '1.16'
+commands:
+  unloaddcs:
+    usage: "just try"
